@@ -10,6 +10,7 @@ http://unfoldingmaps.org
 
 ## 💻程序设计
 - 面向对象编程，使用继承创建出不同的Marker，并显示在UnfoldingMaps库提供的地图上。
+- 实现了EarthQuake的比较器接口。
 - 标明每个地震可影响的城市范围。
 
 ---

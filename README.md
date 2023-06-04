@@ -2,7 +2,9 @@
 
 该项目来自[Object Oriented Java Programming: Data Structures and Beyond](https://www.coursera.org/specializations/java-object-oriented#courses)，由UC San Diego提供了程序的基础框架。   
 
-
+该程序可以在GUI地图界面上实时显示世界上发生的地震，并根据不同的地震种类标识为不同的图标。
+点击一个地震标记可以显示地震会波及到的城市范围。
+另一个程序是在GUI地图界面上显示世界上的机场。
 
 
 

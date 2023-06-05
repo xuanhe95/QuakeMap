@@ -14,7 +14,7 @@
 - 🗺️ 使用[UnfoldingMaps](http://unfoldingmaps.org)库来进行地图的GUI设计。
 - 📖 从互联网API上获取数据并解析为Marker类，以显示在GUI上。
 - ⭕️ 通过继承实现了不同Marker类，以实现在GUI地图上不同的显示效果。
-- 🖥️ 通过重写PApplet方法，实现GUI的用户操作交互。
+- 🖥️ 通过重写PApplet接口，实现GUI的用户操作交互。
 - 🔍 EarthQuakeMarker的比较器接口，以实现查找，排序和筛选不同地震级别的功能。
 
 ---

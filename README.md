@@ -1,4 +1,4 @@
-# QuakeMap
+<h1><p align="center"> 🗺️ QuakeMap 🗺️ </p></h1>
 
 该项目来自[Object Oriented Java Programming: Data Structures and Beyond](https://www.coursera.org/specializations/java-object-oriented#courses)，由UC San Diego提供了程序的基础框架。   
 

@@ -6,7 +6,7 @@
 点击一个地震标记可以显示地震会波及到的城市范围。
 另一个程序是在GUI地图界面上显示世界上的机场。
 
-项目需要运行在JRE8环境下，请将UCSDUnfoldingMaps导入Eclipse运行。
+项目需要通过JRE8编译，请将UCSDUnfoldingMaps导入Eclipse运行。
 
 
 
